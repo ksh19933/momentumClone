@@ -1,0 +1,14 @@
+body {
+    background-color: bisque;
+}
+
+h1{
+    color:cornflowerblue;
+}
+.clicked{
+    color:tomato;
+}
+
+.hidden{
+    display: none;
+}
